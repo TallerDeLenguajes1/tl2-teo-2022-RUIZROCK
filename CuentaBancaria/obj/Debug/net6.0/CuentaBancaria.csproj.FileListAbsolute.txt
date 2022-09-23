@@ -1,0 +1,15 @@
+C:\TallerII\CuentaBancaria\bin\Debug\net6.0\CuentaBancaria.exe
+C:\TallerII\CuentaBancaria\bin\Debug\net6.0\CuentaBancaria.deps.json
+C:\TallerII\CuentaBancaria\bin\Debug\net6.0\CuentaBancaria.runtimeconfig.json
+C:\TallerII\CuentaBancaria\bin\Debug\net6.0\CuentaBancaria.dll
+C:\TallerII\CuentaBancaria\bin\Debug\net6.0\CuentaBancaria.pdb
+C:\TallerII\CuentaBancaria\obj\Debug\net6.0\CuentaBancaria.csproj.AssemblyReference.cache
+C:\TallerII\CuentaBancaria\obj\Debug\net6.0\CuentaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\TallerII\CuentaBancaria\obj\Debug\net6.0\CuentaBancaria.AssemblyInfoInputs.cache
+C:\TallerII\CuentaBancaria\obj\Debug\net6.0\CuentaBancaria.AssemblyInfo.cs
+C:\TallerII\CuentaBancaria\obj\Debug\net6.0\CuentaBancaria.csproj.CoreCompileInputs.cache
+C:\TallerII\CuentaBancaria\obj\Debug\net6.0\CuentaBancaria.dll
+C:\TallerII\CuentaBancaria\obj\Debug\net6.0\refint\CuentaBancaria.dll
+C:\TallerII\CuentaBancaria\obj\Debug\net6.0\CuentaBancaria.pdb
+C:\TallerII\CuentaBancaria\obj\Debug\net6.0\CuentaBancaria.genruntimeconfig.cache
+C:\TallerII\CuentaBancaria\obj\Debug\net6.0\ref\CuentaBancaria.dll
